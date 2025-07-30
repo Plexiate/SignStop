@@ -1,0 +1,11 @@
+name: SignStop
+version: '1.0.0'
+main: com.plexiate.signStop.SignStop
+api-version: '1.21'
+authors: [ Plexiate ]
+description: Splash invis usage on Item Frames and Armour Stands.
+website: https://plexiate.com/plugins/
+permissions:
+  signstop.prevent:
+    description: Prevents the player from placing any kind of sign
+    default: false
